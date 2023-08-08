@@ -24,6 +24,8 @@ h1{
 }
 
 .container{
+    border-top: solid 3em #d9caba;
+    
     background: url(img/doodad\(2\).png);
 
 }
@@ -218,6 +220,8 @@ main{
     padding: 10em;
 
     background: #f7fafc;
+
+    border-bottom: solid 5em #d9caba;
 }
 
 .footer h3{
@@ -237,14 +241,14 @@ main{
 }
 
 .adspace-sponsors{
-    padding-top: 2em;
-
     display: flex;
     justify-content: space-between;
     align-items: center;
     width: 100%;
 
     background: #f7fafc;
+    border-top: 1em solid #f7fafc;
+    border-bottom: 1em solid #f7fafc;
 }
 
 .adspace-sponsors p{
@@ -255,7 +259,6 @@ main{
     text-align: center;
 
     border: 1px black solid;
-
     
     height: 10em;
 }
@@ -263,5 +266,9 @@ main{
 footer{
     width: 100%;
 
-    background: white;
+    background: url(img/doodad\(2\).png);
+    padding-top: 3em;
+    padding-bottom: 2em;
+
+    border-bottom: solid 2em #d9caba;
 }
