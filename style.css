@@ -24,8 +24,6 @@ h1{
 }
 
 .container{
-    border-top: solid 3em #d9caba;
-    
     background: url(img/doodad\(2\).png);
 
 }
@@ -269,6 +267,4 @@ footer{
     background: url(img/doodad\(2\).png);
     padding-top: 3em;
     padding-bottom: 2em;
-
-    border-bottom: solid 2em #d9caba;
 }
